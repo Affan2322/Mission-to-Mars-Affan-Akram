@@ -8,7 +8,8 @@
 ![Story 1](Story_1.jpeg)
 
 
-<hr style="border: 0; height: 4px; background: #007BFF;">
+─────────────── ❖ ───────────────
+
 
 
 
