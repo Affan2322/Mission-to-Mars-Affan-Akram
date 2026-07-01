@@ -54,7 +54,8 @@ I used buttons to simulate rotations and distance to have more precise measurmen
 ---
 
 
-### ⚙️ Story 8 — Title of Experience
+### ⚙️ Story 8 — Avoiding obstacles
+I learnt how to code a rover to avoid obstacles and follow a premade sequence when detecting objects near it
 
 ![Story 8.1](story_91.jpg)
 ![Story 8.2](story_92.jpg)
