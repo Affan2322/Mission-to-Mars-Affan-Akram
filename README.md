@@ -40,7 +40,8 @@ I learnt how to create specific patterns and functions and learnt how to use for
 ---
 
 
-### ⚙️ Story 6 — Title of Experience
+### ⚙️ Story 6 — Using distance over time
+I used buttons to simulate rotations and distance to have more precise measurments rather than just fixed time intervals
 
 ![Story 6](Story_6.jpeg)
 ---
