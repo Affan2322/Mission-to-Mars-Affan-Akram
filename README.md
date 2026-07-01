@@ -70,7 +70,7 @@ Using a function, i made code that checks the surrounding elevation and if the d
 ---
 
 
-### ⚙️ Story 10 — poster
+### ⚙️ Story 10 — Poster
 
 ![Mission To Mars](Poster.jpg)
 
