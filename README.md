@@ -33,7 +33,8 @@ I learnt how to use subroutines to make my code easier to read, debug, and under
 ---
 
 
-### ⚙️ Story 5 — Title of Experience
+### ⚙️ Story 5 — Functions
+I learnt how to create specific patterns and functions and learnt how to use for loops
 
 ![Story 5](Story_5.jpeg)
 ---
