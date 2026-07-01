@@ -47,7 +47,7 @@ I used buttons to simulate rotations and distance to have more precise measurmen
 ---
 
 
-### ⚙️ Story 7 — Title of Experience
+### ⚙️ Story 7
 
 ![Story 7](story_71.jpg)
 ![Story 7](story_72.jpg)
